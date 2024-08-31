@@ -1,0 +1,4 @@
+inherited VertexForm2: TVertexForm2
+  Caption = 'VertexForm2'
+  DesignerMasterStyle = 0
+end
