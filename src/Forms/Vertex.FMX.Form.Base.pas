@@ -19,9 +19,6 @@ type
     procedure Init(Container : TContainer); Virtual;
   end;
 
-var
-  VertexForm: TVertexForm;
-
 implementation
 
 {$R *.fmx}
